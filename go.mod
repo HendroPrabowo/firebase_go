@@ -1,4 +1,4 @@
-module firebase_go
+module github.com/HendroPrabowo/firebase_go
 
 go 1.14
 
